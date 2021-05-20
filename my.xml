@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ott-resp api="firebase.notifications">
+    <fbase-notifications>
+        <fbase-notification>
+            <id>1</id>
+            <username>E01869</username>
+            <createdOn>2021-05-18T11:48:14+05:30</createdOn>
+            <pushNotificationDataVO>
+                <notificationType>NOMINATION</notificationType>
+                <title>Self Nomination Request Rejected</title>
+                <body>Your Self Nomination request is Rejected for the Training- Writing a Project Plan for T2s</body>
+                <trainingId>124</trainingId>
+                <trainingType>LIVE</trainingType>
+            </pushNotificationDataVO>
+        </fbase-notification>
+        <fbase-notification>
+            <id>2</id>
+            <username>E01869</username>
+            <createdOn>2021-05-18T11:48:14+05:30</createdOn>
+            <pushNotificationDataVO>
+                <notificationType>NOMINATION</notificationType>
+                <title>Self Nomination request Approved</title>
+                <body>Your Self Nomination request is Approved for the Training- Non Verbal Communication for T2s</body>
+                <trainingId>125</trainingId>
+                <trainingType>LIVE</trainingType>
+            </pushNotificationDataVO>
+        </fbase-notification>
+    </fbase-notifications>
+</ott-resp>
